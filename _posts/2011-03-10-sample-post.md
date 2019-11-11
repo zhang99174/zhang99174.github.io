@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: 家
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 categories: [hello world]
 comments: true
@@ -10,7 +10,7 @@ image:
   creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
 ---
 
-### 文章主体
+### 家
 
 家，会意兼形声字。《说文》：“家，居也。从宀，豭省声。” [7] [8] 又说：“豭”，牡豕也。此说有据。
 
@@ -88,7 +88,13 @@ image:
 
 *考证：（《\*说文\*》居也。《\*尔雅·释宫\*》戸牖之闲曰扆，其内谓之家。）谨照原文改家居也。尔雅戸牖之闲谓之扆。（《\*左传·襄二十六年\*》大夫皆富，政将在家。）谨照原文二十六年改二十九年。 [*
 
-## Buttons
+## 写法
+
+![书写演示](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ed4f835e6d2762d0843ea3bd90ed0849/14ce36d3d539b6007e5033cae750352ac65cb734.jpg)
+
+​																					记得常回家看看
+
+## 按钮的样式
 
 Make any link standout more when applying the `.btn` class.
 
