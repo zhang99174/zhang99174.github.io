@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 家
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "家要讲爱,不可讲理;家要安静,不可吵闹;家要清洁,不可凌乱;家要真诚,不可虚伪;家要自由,不可强制;家要温存,家要小节。家要关心、体贴、理解、包容、忍让,..."
 categories: [hello world]
 comments: true
 image:
