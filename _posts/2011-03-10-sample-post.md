@@ -10,73 +10,83 @@ image:
   creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
 ---
 
-## HTML Elements
+### 文章主体
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+家，会意兼形声字。《说文》：“家，居也。从宀，豭省声。” [7] [8] 又说：“豭”，牡豕也。此说有据。
 
 ![Smithsonian Image](https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250)
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+在商代甲骨文中，“家”有两种写法，一种是“宀” （房屋的象形）中的豕为雄性的（腹部有突出的雄性生殖器），另一种较简单的写法，不强调性别，突出雄性生殖器的“豕”应是“豭”的象形初文，是兼称声符的。而不强调性别的“豕”则是省形。
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+到了[周代](https://baike.baidu.com/item/周代/9860151)[金文](https://baike.baidu.com/item/金文/3464)中以不强调性别的写法为主，后世的“家”字就是由这种写法演变而成。在[商代](https://baike.baidu.com/item/商代/9859787)甲骨文中，“家”中的“豕”大多是画出猪体的轮廓，也有只画出猪体的线条的，周代金文的“家”是由这种简便的写法演变而成。在甲骨文中出现了省略像豕的前蹄的笔画的写法，但周代金文则是由甲骨文的完整写法演变而成。另外，在周代金文中“豕”的原像猪的后蹄和猪尾的笔画是连成一笔的，一直到[西汉](https://baike.baidu.com/item/西汉/394557)[隶书](https://baike.baidu.com/item/隶书/835864)中才分成两笔，到了[东汉](https://baike.baidu.com/item/东汉/395223)隶书中又分成三笔，书写更便利了。
 
-### Blockquotes
+> ## 详细释义
+>
+> 拼音词性释义例句例词jiā名词房屋；家庭的住所《庄子·山木》：夫子出于山，舍于故人之家。四海为家家庭《诗·周颂·桓》：“天命匪解，桓桓武王，保有厥士，于以四方，克定厥家。”三口之家、勤俭持家古代指夫或妻，现在指妻子宋黄庭坚《薄薄酒》诗之二：薄酒终胜饮茶，丑妇不是无家。谦词，对别人称说自己亲属中的长辈或年长者清王应奎《柳南续笔》卷四：临川李侍郎《书〈曝书亭集〉后》云：‘近世人诗文标目，于同姓人辄称家某人。家父、家母饲养的禽畜
+>
+> 五代齐己《野鸭》诗：野鸭殊家鸭，离群忽远飞。
+>
+> 家禽、家畜经营某种行业的人唐白居易《观刈麦》诗：田家少闲月，五月人倍忙。田家、船家在掌握某种专门学识方面出类拔萃的人文学家、科学家学术流派《荀子·解蔽》：今诸侯异政，百家异说，则必或是或非，或治或乱。儒家、诸子百家姓春秋晋有家仆徒。见《左传·僖公十五年》。动词结婚成家《楚辞·离骚》：及少康之未家兮，留有虞之二姚。成家量词用来计算家庭或企业《庄子·徐无鬼》：舜有膻行，百姓悦之，故三徙成都，至邓之虚而十有万家。两家饭馆、三家商店jie助词用在修饰语后，相当于地、的孩子家家jia助词用在某些名词后面，表示属于那一类人《牡丹亭·慈戒》：女儿家甚做作，星辰高犹自可。女儿家gu名词古时对女子的尊称《后汉书·列女传·曹世叔妻》：“扶风曹世叔妻者，同郡班彪之女也，名昭，字惠班，一名姬。博学高才。世叔早卒，有节行法度。兄固着《汉书》，其八表及《天文志》未及竟而卒，和帝诏昭就东观臧书阁踵而成之。帝数召入宫，令皇后诸贵人师事焉，号曰大家。”
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+## 古籍释义
 
-## List Types
+### 说文解字
 
-### Ordered Lists
+**【\**卷七\**】【\**宀部\**】 家**
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
+居也。从宀，豭省声。 [7] [8] 
 
-### Unordered Lists
+### 说文解字注
 
-* Item one
-* Item two
-* Item three
+**凥也。**
 
-## Tables
+凥，各本作居，今正。凥，处也。处，止也。《释宫》：牖戸之闲谓之扆。其内谓之家。引伸之，天子诸侯曰国，大夫曰家。凡古曰家人者，犹今曰人家也。家人字见哀四年《左传》、《夏小正传》及《史记》、《汉书》。家、凥曡韵。
 
-| Header 1 | Header 2 | Header 3 |
-|:--------|:-------:|--------:|
-| cell 1   | cell 2   | cell 3   |
-| cell 4   | cell 5   | cell 6   |
-|----
-| cell 1   | cell 2   | cell 3   |
-| cell 4   | cell 5   | cell 6   |
-|=====
-| Foot 1   | Foot 2   | Foot 3   |
+**从宀，豭省声。**
 
-## Code Snippets
+古牙切，古音在五部。按，此字为一大疑案。豭省声，读家，学者但见从豕而已。从豕之字多矣，安见其为豭省耶？何以不云叚声，而纡回至此耶！窃谓此篆本义乃豕之凥也，引申叚借以为人之凥。字义之转移，多如此。牢，牛之凥也，引伸为所以拘罪之𨻼牢，庸有异乎。豢豕之生子冣多，故人凥聚处借用其字，久而忘其字之本义，使引伸之义得冒据之，葢自古而然。许书之作也，尽正其失，而犹未免此，且曲为之说，是千虑之一失也。家篆当入豕部。 [11] 
 
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
+### 康熙字典
+
+【寅集上】【宀字部】家
+
+《唐韵》古牙切。《集韵》《韵会》《正韵》居牙切。并音加。《说文》：家，居也。《尔雅》：牖户之闲谓之扆，其内谓之家。《诗·周南》：宜其室家。注：家谓一门之内。
+
+又妇谓夫曰家。《孟子》：女子生，而愿为之有家。
+
+又一夫受田百亩曰夫家。《周礼·地官》：上地家七人，中地家六人，下地家五人。注：有夫有妇，然后为家。
+
+又大夫之邑曰家，仕于大夫者曰家臣。《左传·襄二十九年大夫》：皆富，政将在家。
+
+又天家，天子之称。《蔡邕·独断》：天子无外，以天下为家。
+
+又居其地曰家。《史记·陆贾传》：以好畤田地，善往家焉。
+
+又著述家。《前汉·武帝纪》：表章六经，罢黜百家。
+
+又《太史公自序》：成一家之言。
+
+又家人，《易》卦名。
+
+又姓。汉剧令家羡，宋家铉翁。
+
+又《集韵》古胡切。音姑。《诗·豳风》：予未有室家。叶上据、荼。
+
+又《小雅》：复我邦家。叶上居、樗。
+
+又与姑同。大家，女之尊称。汉曹世叔之妻班昭称大家，即超妹。
+
+又叶古俄切。音歌。《古雉朝飞操》：我独何命兮未有家，时将暮兮可奈何。
+
+又孔臧《蓼赋》：苟非德义，不以为家。安逸无心，如禽兽何。
+
+又叶古暮切。音固。焦氏《易林》：三足孤鸟，灵明为御。司过罚恶，自残其家。
+
+《说文》从宀，豭省声。周伯温曰：豕居之圈曰家。故从宀从豕，后人借为室家之家。
+
+按《六书故》作，人所合也。从㐺，三人聚宀下，之义也。乑，古族字。乑譌为豕。《说文》谓从豭省。无义。字从宀从㐺，或从宀从乑。乑字从亻从人人，与㐺形近。又𡦼。 [12] 
+
+*考证：（《\*说文\*》居也。《\*尔雅·释宫\*》戸牖之闲曰扆，其内谓之家。）谨照原文改家居也。尔雅戸牖之闲谓之扆。（《\*左传·襄二十六年\*》大夫皆富，政将在家。）谨照原文二十六年改二十九年。 [*
 
 ## Buttons
 
