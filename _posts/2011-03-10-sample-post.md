@@ -22,7 +22,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 #### Heading 4
 
-##### Heading 5
+##### Heading 
 
 ###### Heading 6
 
@@ -91,7 +91,6 @@ Make any link standout more when applying the `.btn` class.
 <div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
